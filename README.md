@@ -21,7 +21,8 @@
 <img width="2560" height="1384" alt="image" src="https://github.com/user-attachments/assets/3d471901-aaf5-4dab-8ac5-83569bcd3a73" />
 <img width="2560" height="1402" alt="image" src="https://github.com/user-attachments/assets/58141e37-3cb6-461f-9aad-619a87faa37e" />
 ## 快速开始
-
+<img width="1948" height="1046" alt="image" src="https://github.com/user-attachments/assets/23d21a08-fa59-4ec9-a6da-a091df4a1ff5" />
+需要在config文件下创建一个环境的py文件存放测试环境url;
 ### 1. 安装依赖
 
 ```bash
