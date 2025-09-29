@@ -42,7 +42,6 @@ allure generate reports/allure-results -o reports/allure-report --clean
 # 查看报告
 allure serve reports/allure-results
 
-生成allure报告如图：
 
 
 
